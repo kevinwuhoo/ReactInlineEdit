@@ -1,3 +1,6 @@
+1.0.9 / 2017-01-24
+==================
+* Use prop-types package for react 16 compatibility
 
 1.0.8 / 2016-11-07
 ==================
